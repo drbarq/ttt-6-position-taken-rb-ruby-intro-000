@@ -3,7 +3,7 @@
 def position_taken?(array, index)
   if array[index] != " "
     false
-  else 
+  else
     true
   end
 end
