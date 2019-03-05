@@ -5,7 +5,7 @@ def position_taken?(array, index)
     false
   elsif array[index] == nil
     false
-  else 
+  else
     true
   end
 end
